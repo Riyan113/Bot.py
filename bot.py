@@ -2,7 +2,7 @@ import discord
 import openai
 
 # Token dari Discord Developer Portal
-DISCORD_TOKEN = "MTM0MjEzNTc1MjM5NzQyNjgwMA.GshACD.bUnHnzllS2CxUK-48tJ_G90KGwCiLvDT4U79ZI"
+DISCORD_TOKEN = "MTM0MjEzNTc1MjM5NzQyNjgwMA.Ggp3x5.FjNjDRxasjdcUUEZdWw-28L3ijWdy8M8NveEYc"
 OPENAI_API_KEY = "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"
 
 # Konfigurasi OpenAI
